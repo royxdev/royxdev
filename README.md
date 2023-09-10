@@ -45,8 +45,6 @@ So, if you're ready to embark on an epic quest through the AI cosmos, paint the 
 ### 🔥 Commit Streak:
 ![GitHub commit streak](https://github-readme-streak-stats.herokuapp.com/?user=souravroy0811&theme=dark)
 
-### 📈 Commit Graph:
-![GitHub commit activity graph](https://activity-graph.herokuapp.com/graph?username=souravroy0811&theme=github&bg_color=000000&color=4ABDFF&line=4ABDFF&point=FFFFFF)
 
 ### 📌 Top Language:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souravroy0811&layout=compact&theme=dark)
