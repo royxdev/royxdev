@@ -58,4 +58,4 @@ So, if you're ready to embark on an epic quest through the AI cosmos, paint the 
 ### 👥 Follower Counts:
 ![GitHub followers](https://img.shields.io/github/followers/souravroy0811?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/souravroy0811?style=social)
-![Instagram Follow](https://img.shields.io/badge/Instagram-Follow%20Me-orange?logo=instagram&style=social)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-Follow%20Me-orange?logo=instagram&style=social)](https://www.instagram.com/souravroy0811/)
