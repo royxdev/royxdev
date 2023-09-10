@@ -52,8 +52,10 @@ So, if you're ready to embark on an epic quest through the AI cosmos, paint the 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souravroy0811&layout=compact&theme=dark)
 
 ### 🌟 Top Repositories:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souravroy0811&repo=YourRepository1&theme=dark)](https://github.com/souravroy0811/YourRepository1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souravroy0811&repo=YourRepository2&theme=dark)](https://github.com/souravroy0811/YourRepository2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souravroy0811&repo=sales_data_analysis_using_python&theme=dark)](https://github.com/souravroy0811/sales_data_analysis_using_python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souravroy0811&repo=MakeMe&theme=dark)](https://github.com/souravroy0811/MakeMe)
 
-### 👥 Follower Count:
+### 👥 Follower Counts:
 ![GitHub followers](https://img.shields.io/github/followers/souravroy0811?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/souravroy0811?style=social)
+![Instagram Follow](https://img.shields.io/badge/Instagram-Follow%20Me-orange?logo=instagram&style=social)
