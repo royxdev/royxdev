@@ -31,3 +31,8 @@ So, if you're ready to embark on an epic quest through the AI cosmos, paint the 
 ![Rocket Animation](https://img.shields.io/badge/Embark%20on%20a%20Journey-%F0%9F%9A%80-green)
 
 ### 🌠 May the Code Be With You!
+
+### 🌐 Connect with Me:
+[![Twitter](https://img.shields.io/twitter/follow/YourTwitterHandle?label=Follow%20Me%20on%20Twitter&style=social)](https://twitter.com/souravroy0811)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/souravroy0811)
+[![Instagram](https://img.shields.io/badge/Follow%20on%20Instagram-%23E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/souravroy0811)
