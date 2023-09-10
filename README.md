@@ -39,5 +39,5 @@ So, if you're ready to embark on an epic quest through the AI cosmos, paint the 
 [![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-ff69b4?style=flat-square)](https://)
 
 ### 📊 GitHub Stats:
-<!-- Your GitHub Stats Card -->
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=souravroy0811&show_icons=true&theme=dark)
+<!-- Your GitHub Stats Card with all available stats -->
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=souravroy0811&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true)
