@@ -51,7 +51,6 @@ So, if you're ready to embark on an epic quest through the AI cosmos, paint the 
 
 ### 🌟 Top Repositories:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souravroy0811&repo=sales_data_analysis_using_python&theme=dark)](https://github.com/souravroy0811/sales_data_analysis_using_python)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souravroy0811&repo=MakeMe&theme=dark)](https://github.com/souravroy0811/MakeMe)
 
 ### 👥 Follower Counts:
 ![GitHub followers](https://img.shields.io/github/followers/souravroy0811?style=social)
