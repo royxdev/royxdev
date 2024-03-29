@@ -1,56 +1,30 @@
-<!-- Greetings, Earthlings! -->
-![Spaceship Animation](https://img.shields.io/badge/Taking%20off-%F0%9F%9A%80-blueviolet)
-
-# 🚀 Hey there, I'm Sourav Roy!
-
-## 👨‍🚀 Your Friendly Neighborhood AI Enthusiast and Space Cadet
-### 🛸 3rd Year Space Cadet majoring in Computer Science and Engineering at Techno India University
-
-### 🌌 My Mission:
-To boldly go where no code has gone before! Join me on my interstellar journey through the vast cosmos of Artificial Intelligence:
-
-- 🌟 Mastering the art of Machine Learning
-- 🚀 Exploring the depths of Deep Learning
-- 🧠 Connecting neural pathways with Artificial Neural Networks
-- 🐍 Taming the Pythonic forces
-
-### 🎨 But Wait, There's More!
-In my free time (when I'm not outwitting AI algorithms), I'm a digital Picasso:
-
-- 🎨 Crafting digital masterpieces with Photoshop CC
-- 🌈 Bringing color to life with Premiere Pro & Lightroom CC
-- 💻 Designing sleek UIs and launching stellar websites with React and Figma
-- 🌐 Connecting constellations in the digital galaxy
-
-### 🌍 Beyond the Binary
-I'm all about making the world a better place. 🌟 Whether it's forging new connections, sharing knowledge across galaxies, or collaborating on projects that can change the course of history, I'm in!
-
-### 🚀 Let's Connect
-So, if you're ready to embark on an epic quest through the AI cosmos, paint the digital canvas with innovation, or simply chat about the future of technology, let's connect.
-
-![Rocket Animation](https://img.shields.io/badge/Embark%20on%20a%20Journey-%F0%9F%9A%80-green)
-
-### 🌠 May the Code Be With You!
-
-### 🌐 Connect with Me:
-[![Twitter](https://img.shields.io/twitter/follow/souravroy0811?label=Follow%20Me%20on%20Twitter&style=social)](https://twitter.com/souravroy0811)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/souravroy0811)
-[![Instagram](https://img.shields.io/badge/Follow%20on%20Instagram-%23E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/souravroy0811)
-[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-ff69b4?style=flat-square)](https://)
-
-### 📊 GitHub Stats:
-<!-- Your GitHub Stats Card with all available stats -->
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=souravroy0811&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true)
-
-### 🔥 Commit Streak:
-![GitHub commit streak](https://github-readme-streak-stats.herokuapp.com/?user=souravroy0811&theme=dark)
+# 💫 About Me:
+I am Sourav Roy, a prefinal year student pursuing a Bachelor's degree in Computer Science and Engineering with a focus on Artificial Intelligence at Techno India University. Having completed two internships – one as a Frontend Developer and another as a Machine Learning Engineer – I bring a diverse skill set and a passion for innovation.<br>Fluent in Python, and also proficient in Java and C/C++, I approach coding as both a science and an art. My primary focus is on Python, leveraging its capabilities to solve complex problems efficiently. My keen interest in AI and ML fuels my dedication to continuous learning and growth in these dynamic fields.<br>As I progress in my academic journey, I am actively seeking opportunities to apply my skills and contribute to groundbreaking projects. My goal is to carve a niche in the world of Artificial Intelligence, and I am excited about the challenges and opportunities that lie ahead.
 
 
-### 📌 Top Language:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souravroy0811&layout=compact&theme=dark)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heysouravroy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/heysouravroy) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/heysouravroy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/heysouravroy) 
 
-### 🌟 Top Repositories:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souravroy0811&repo=sales_data_analysis_using_python&theme=dark)](https://github.com/souravroy0811/sales_data_analysis_using_python)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=heysouravroy&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=heysouravroy&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=heysouravroy&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 👥 Follower Counts:
-![GitHub followers](https://img.shields.io/github/followers/souravroy0811?style=social)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=heysouravroy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=heysouravroy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=heysouravroy&icon=8&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
