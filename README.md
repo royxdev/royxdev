@@ -32,9 +32,6 @@ Welcome to my GitHub! I'm a **final year CSE AI student** at **Techno India Univ
 #### Streak Stats
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=heysouravroy&theme=radical)
 
-#### Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=heysouravroy&theme=radical)
-
 #### Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=heysouravroy)
 
