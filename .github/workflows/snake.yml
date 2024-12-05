@@ -1,7 +1,7 @@
 name: Generate snake animation
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
@@ -39,6 +39,9 @@ jobs:
           output: dist/ocean.gif
           color_snake: orange
           color_dots: "#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9"
+
+      - name: Debugging - Check files in dist
+        run: ls -R dist
 
       - name: Push generated files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
