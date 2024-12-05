@@ -32,6 +32,13 @@ Welcome to my GitHub! I'm a **final year CSE AI student** at **Techno India Univ
 #### Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=heysouravroy)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heysouravroy/heysouravroy/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/heysouravroy/heysouravroy/blob/output/github-snake.svg">
+  <img alt="Snake animation" src="https://github.com/heysouravroy/heysouravroy/blob/output/github-snake.svg">
+</picture>
+
+
 ---
 
 ### 🌍 Let's Connect
