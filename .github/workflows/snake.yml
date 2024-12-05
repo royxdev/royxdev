@@ -31,34 +31,11 @@ jobs:
       - name: Debugging - Check if snake.svg was created
         run: ls -l dist/github-snake.svg || echo "github-snake.svg not created"
 
-      - name: Generate snake-dark.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          output: dist/github-snake-dark.svg
-          palette: github-dark
-
-      - name: Debugging - Check if snake-dark.svg was created
-        run: ls -l dist/github-snake-dark.svg || echo "github-snake-dark.svg not created"
-
-      - name: Generate ocean.gif
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          output: dist/ocean.gif
-          color_snake: orange
-          color_dots: "#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9"
-
-      - name: Debugging - Check if ocean.gif was created
-        run: ls -l dist/ocean.gif || echo "ocean.gif not created"
-
-      - name: Debugging - Check all files in dist
-        run: ls -R dist || echo "dist directory is empty"
-
       - name: Push generated files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          verbose: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
