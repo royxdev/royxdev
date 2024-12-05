@@ -29,8 +29,7 @@ Welcome to my GitHub! I'm a **final year CSE AI student** at **Techno India Univ
 #### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heysouravroy&layout=compact&theme=radical)
 
-#### Streak Stats
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=heysouravroy&theme=radical)
+<img src="https://raw.githubusercontent.com/heysouravroy/heysouravroy/output/snake.svg" alt="Snake animation" />
 
 #### Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=heysouravroy)
