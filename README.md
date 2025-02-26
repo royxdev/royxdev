@@ -48,8 +48,8 @@ Welcome to my GitHub! I'm a **final year CSE AI student** at **Techno India Univ
 - 📧 Reach me via: [heysouravro@gmail.com](mailto:heysouravro@gmail.com)
 - 🐦 Follow me on X: [@heysouravroy](https://x.com/heysouravroy)
 - 📱 Check out my LinkedIn: [Sourav Roy](https://linkedin.com/in/heysouravroy)
-- 📸 Follow me on Instagram: [@themr.roy](https://instagram.com/themr.roy)
-- 📘 Connect on Facebook: [@themr.roy](https://facebook.com/themr.roy)
+- 📸 Follow me on Instagram: [@themr.roy](https://instagram.com/royyssey)
+- 📘 Connect on Facebook: [@themr.roy](https://facebook.com/royyssey)
 
 ---
 
