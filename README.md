@@ -43,9 +43,6 @@ Explore some of my most notable projects:
 3. **[AI Flappy Bird](https://github.com/heysouravroy/AI_Flappy_Bird)**  
    A reinforcement learning-based AI that masters the classic Flappy Bird game. This project highlights the power of machine learning in gaming.  
 
-4. **[Travel Destination Recommender](https://github.com/heysouravroy/travel_destination)**  
-   AI meets wanderlust! This smart travel app recommends personalized destinations based on user preferences and past experiences.  
-
 Each project is a blend of creativity, innovation, and technical expertise.
 
 ---
