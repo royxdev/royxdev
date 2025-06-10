@@ -34,13 +34,13 @@ I use this stack to craft robust, scalable, and user-friendly solutions that mak
 
 Explore some of my most notable projects:
 
-1. **[CURA](https://github.com/heysouravroy/CURA)**  
+1. **[CURA](https://github.com/royxdev/CURA)**  
    Revolutionizing healthcare with an AI-driven management system. CURA streamlines patient-doctor interactions, appointment scheduling, and secure medical record tracking.  
 
-2. **[NutriMind](https://github.com/heysouravroy/NutriMind)**  
+2. **[NutriMind](https://github.com/royxdev/NutriMind)**  
    Your AI-powered nutrition coach! NutriMind generates personalized meal plans, tracks progress, and empowers users to achieve their health goals seamlessly.  
 
-3. **[AI Flappy Bird](https://github.com/heysouravroy/AI_Flappy_Bird)**  
+3. **[AI Flappy Bird](https://github.com/royxdev/AI_Flappy_Bird)**  
    A reinforcement learning-based AI that masters the classic Flappy Bird game. This project highlights the power of machine learning in gaming.  
 
 Each project is a blend of creativity, innovation, and technical expertise.
@@ -50,19 +50,19 @@ Each project is a blend of creativity, innovation, and technical expertise.
 ## 📈 GitHub Highlights
 
 #### 🏆 Contributions and Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heysouravroy&show_icons=true&count_private=true&hide_title=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=royxdev&show_icons=true&count_private=true&hide_title=true&theme=radical)
 
 #### 🛠️ Technology Proficiency
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heysouravroy&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=royxdev&layout=compact&theme=radical)
 
 #### 👀 Profile Visitors
-![Profile Views](https://komarev.com/ghpvc/?username=heysouravroy)
+![Profile Views](https://komarev.com/ghpvc/?username=royxdev)
 
 #### 🐍 Dynamic Contributions
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heysouravroy/heysouravroy/blob/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/heysouravroy/heysouravroy/blob/output/github-snake.svg">
-  <img alt="Snake animation" src="https://github.com/heysouravroy/heysouravroy/blob/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/royxdev/royxdev/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/royxdev/royxdev/blob/output/github-snake.svg">
+  <img alt="Snake animation" src="https://github.com/royxdev/royxdev/blob/output/github-snake.svg">
 </picture>
 
 ---
@@ -72,10 +72,9 @@ Each project is a blend of creativity, innovation, and technical expertise.
 I’m always looking to collaborate on exciting projects and connect with like-minded individuals. Feel free to reach out!
 
 - 💬 **Ask me about:** AI, Deep Learning, App Development, Game Development  
-- 🌐 **Website:** [heysouravroy.netlify.app](https://heysouravroy.netlify.app)  
-- 📧 **Email:** [heysouravro@gmail.com](mailto:heysouravro@gmail.com)  
-- 🐦 **X (Twitter):** [@heysouravroy](https://x.com/heysouravroy)  
-- 📱 **LinkedIn:** [Sourav Roy](https://linkedin.com/in/heysouravroy)  
+- 🌐 **Website:** [royxlead.netlify.app](https://royxlead.netlify.app)  
+- 📧 **Email:** [royxlead@gmail.com](mailto:royxlead@gmail.com) 
+- 📱 **LinkedIn:** [Sourav Roy](https://linkedin.com/in/royxlead)  
 - 📸 **Instagram:** [@royyssey](https://instagram.com/royyssey)  
 - 📘 **Facebook:** [@royyssey](https://facebook.com/royyssey)  
 
